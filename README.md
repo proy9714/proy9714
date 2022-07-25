@@ -1,10 +1,9 @@
-| [![Priyadarshi Roy](https://img.shields.io/badge/PRIYADARSHI-ROY-<COLOR>.svg)](https://shields.io/) | ![Profile Views](https://komarev.com/ghpvc/?username=pro9714&color=green) | ![Followers](https://img.shields.io/github/followers/proy9714) | ![Stars](https://img.shields.io/github/stars/proy9714?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) |
---| --| --| --|
+# Hi there,I'm Priyadarshi 👋
+<br>
 
+[![Priyadarshi Roy](https://img.shields.io/badge/PRIYADARSHI-ROY-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=pro9714&color=green) ![Followers](https://img.shields.io/github/followers/proy9714) ![Stars](https://img.shields.io/github/stars/proy9714?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
-<b>Hi there,I'm Priyadarshi</b>👋<br>
-
-<b>BIO</b><br>
+BIO</b><br>
  I'm a Machine Learning and Ethical Hacking Enthusiast<br>
 ⚙️ I use daily: Python, Keras, Flask, Photoshop, Lightroom<br>
 🌱 Learning all about ML and AI<br>
