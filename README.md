@@ -3,11 +3,12 @@
 
 [![Priyadarshi Roy](https://img.shields.io/badge/PRIYADARSHI-ROY-<COLOR>.svg)](https://shields.io/) ![Profile Views](https://komarev.com/ghpvc/?username=pro9714&color=green) ![Followers](https://img.shields.io/github/followers/proy9714) ![Stars](https://img.shields.io/github/stars/proy9714?label=Profile%20Stars&logo=Profile%20stars&logoColor=g) 
 
-BIO</b><br>
+# BIO
+<br>
  I'm a Machine Learning and Ethical Hacking Enthusiast<br>
 ⚙️ I use daily: Python, Keras, Flask, Photoshop, Lightroom<br>
 🌱 Learning all about ML and AI<br>
-📫 How to reach me:proy9714@gmail.com,&nbsp, [LinkedIn](https://www.linkedin.com/in/priyadarshi-roy-047474148/)
+📫 How to reach me:proy9714@gmail.com, [LinkedIn](https://www.linkedin.com/in/priyadarshi-roy-047474148/)
 
 <br>
 
